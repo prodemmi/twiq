@@ -1,4 +1,5 @@
-<img src="assets/demo.gif"/>
+![Demo](https://raw.githubusercontent.com/prodemmi/twiq/main/assets/demo.gif)
+
 
 # Twiq
 
