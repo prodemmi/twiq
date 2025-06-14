@@ -1,0 +1,11 @@
+# IDE and Editor specific files
+*.idea/
+*.vscode/
+
+# Binaries
+*.exe
+*.out
+*.app
+
+# Build directory
+/build/
