@@ -1,5 +1,6 @@
-![Demo](https://raw.githubusercontent.com/prodemmi/twiq/main/assets/demo.gif)
-
+<p align="center">
+  <img src="assets/demo.gif" />
+</p>
 
 # Twiq
 
